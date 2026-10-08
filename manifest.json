@@ -1,0 +1,11 @@
+{
+  "id": "turbo_mod",
+  "name": "Turbo Mod",
+  "version": "1.0.0",
+  "entry": "main.lua",
+  "api": 2,
+  "games": ["all"],
+  "permissions": ["engine_internals"],
+  "category": "TOOL",
+  "description": "Bind hold buttons for Turbo A or B and Speedup."
+}
